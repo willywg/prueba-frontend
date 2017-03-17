@@ -29,7 +29,7 @@ Logos de Turismoi disponibles en /sources
 # A evaluar
 * Herramientas utilizadas en el desarrollo de la solución.
 * Correcto manejo de Git, recomendado microcommits.
-* Maejo de frameworks de desarrollo. Punto extra si se usa Vue
+* Manejo de frameworks de desarrollo. Punto extra si se usa Vue
 * Se tomará en cuenta el uso de preprocesadores.
 * Diseño responsive.
 * Se tomará en cuenta el tiempo empleado para entregar la solución.
